@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/authentication-with-routes/static/css/main.6f9a0a89.css",
+    "main.js": "/authentication-with-routes/static/js/main.2a808abb.js",
+    "static/js/787.75f99eaa.chunk.js": "/authentication-with-routes/static/js/787.75f99eaa.chunk.js",
+    "index.html": "/authentication-with-routes/index.html",
+    "main.6f9a0a89.css.map": "/authentication-with-routes/static/css/main.6f9a0a89.css.map",
+    "main.2a808abb.js.map": "/authentication-with-routes/static/js/main.2a808abb.js.map",
+    "787.75f99eaa.chunk.js.map": "/authentication-with-routes/static/js/787.75f99eaa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f9a0a89.css",
+    "static/js/main.2a808abb.js"
+  ]
+}
